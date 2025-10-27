@@ -1,3 +1,7 @@
+
+Name-Alu Lokon
+Email-lokonallu444@gmail.com
+
 🛒 Superstore Sales Analysis
 
 A data analytics project that explores and visualizes Superstore sales data to uncover business insights and improve decision-making.
